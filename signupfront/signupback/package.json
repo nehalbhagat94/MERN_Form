@@ -1,0 +1,22 @@
+{
+  "name": "signupback",
+  "version": "1.0.0",
+  "description": "Signup Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Nehal Bhagat",
+  "license": "ISC",
+  "dependencies": {
+    "anychart": "^8.9.0",
+    "anychart-nodejs": "^1.3.8",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.14"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
